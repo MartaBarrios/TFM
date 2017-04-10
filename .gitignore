@@ -2,3 +2,5 @@
 .ipynb_checkpoints/Data Analysis-checkpoint.ipynb
 
 *.csv
+
+.ipynb_checkpoints/data_analysis-checkpoint.ipynb
